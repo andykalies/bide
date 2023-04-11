@@ -1,0 +1,172 @@
+{"main_navigation":[{"title":"","separator":true},
+
+
+{"title":"Business Insider","url":"https://acc.businessinsider.de/?bi_native_app"},
+
+{"title":"Gründerszene","url":"https://acc.businessinsider.de/gruenderszene/?bi_native_app"},
+
+{"title":"Insider","url":"https://www.businessinsider.com/?IR=T&token=eyJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJodHRwczovL2lkLnBpYW5vLmlvIiwic3ViIjoiYmNhMzY3NDUtYzljMC00ZjI0LWI5ZmItYjVmMDk4MWViMzQwIiwiYXVkIjoiN245U3NTVndwdSIsImxvZ2luX3RpbWVzdGFtcCI6IjE2Nzk2NjU1NDQ2MzgiLCJnaXZlbl9uYW1lIjoiTmlraWFzIiwiZmFtaWx5X25hbWUiOiJUaGnDn2VuIiwiZW1haWwiOiJ0aGlzc2VuLm5pa2lhcyt6d2VpamFocmVzYWJvQGdtYWlsLmNvbSIsImVtYWlsX2NvbmZpcm1hdGlvbl9yZXF1aXJlZCI6ZmFsc2UsImV4cCI6MTY4MjI5MzU0NCwiaWF0IjoxNjc5NjY1NTQ0LCJqdGkiOiJUSXJJNmx1a29ycnMxMjg4IiwicGFzc3dvcmRUeXBlIjoicGFzc3dvcmQiLCJyIjp0cnVlfQ.9F4R2pMs58C61jLr4jtXr9bDSIouNWa4d7sI-9-dwTM&source=bide&_ga=2.48340133.2079905408.1679295541-267886535.1660038050"},
+
+
+{"main_navigation":[{"title":"","separator":true},
+
+
+{"title":"Plus","url":"https://acc.businessinsider.de/bi-plus-artikel/?bi_native_app"},
+
+
+{"title":"Wirtschaft","url":"https://acc.businessinsider.de/wirtschaft/?bi_native_app"},
+
+"subcategories": [
+
+{"title": "Money Mindset",
+"url": "https://acc.businessinsider.de/wirtschaft/finanzen/?bi_native_app"},
+
+{"title": "Handel",
+"url": "https://acc.businessinsider.de/wirtschaft/handel/?bi_native_app"},
+
+{"title": "Verbraucher",
+"url": "https://acc.businessinsider.de/wirtschaft/verbraucher/?bi_native_app"},
+
+{"title": "Mobility",
+"url": "https://acc.businessinsider.de/wirtschaft/mobility/?bi_native_app"}
+]
+},
+
+
+{"title":"Politik","url":"https://acc.businessinsider.de/politik/?bi_native_app"},
+
+"subcategories": [
+{"title": "Deutschland",
+"url": "https://acc.businessinsider.de/politik/deutschland/?bi_native_app"},
+
+{"title": "Welt",
+"url": "https://acc.businessinsider.de/politik/welt/?bi_native_app"}
+]
+},
+
+
+{"title":"Karriere","url":"https://acc.businessinsider.de/karriere/?bi_native_app"},
+
+"subcategories": [
+
+{"title": "Arbeitsleben",
+"url": "https://acc.businessinsider.de/karriere/arbeitsleben/?bi_native_app"},
+
+{"title": "Bewerbung",
+"url": "https://acc.businessinsider.de/karriere/bewerbung/?bi_native_app"}
+]
+},
+
+
+{"title":"Leben","url":"https://acc.businessinsider.de/leben/?bi_native_app"},
+
+"subcategories": [
+
+{"title": "Beziehung",
+"url": "https://acc.businessinsider.de/leben/beziehung/?bi_native_app"},
+
+{"title": "Erziehung",
+"url": "https://acc.businessinsider.de/leben/erziehung/?bi_native_app"},
+
+{"title": "Fitness",
+"url": "https://acc.businessinsider.de/leben/fitness/?bi_native_app"},
+
+{"title": "Selbstoptimierung",
+"url": "https://acc.businessinsider.de/leben/selbstoptimierung/?bi_native_app"},
+
+{"title": "Wohnen",
+"url": "https://acc.businessinsider.de/leben/wohnen/?bi_native_app"}
+]
+},
+
+
+{"title":"Wissen","url":"https://acc.businessinsider.de/wissenschaft/?bi_native_app"},
+
+"subcategories": [
+
+{"title": "Ernährung",
+"url": "https://acc.businessinsider.de/wissenschaft/ernaehrung/?bi_native_app"},
+
+{"title": "Gesundheit",
+"url": "https://acc.businessinsider.de/wissenschaft/gesundheit/?bi_native_app"},
+
+{"title": "Natur",
+"url": "https://acc.businessinsider.de/wissenschaft/natur/?bi_native_app"},
+
+{"title": "Weltraum",
+"url": "https://acc.businessinsider.de/wissenschaft/weltraum/?bi_native_app"}
+]
+},
+
+
+{"title":"Mehr von BI"},
+
+"subcategories": [
+
+{"title": "BI International (USA)",
+"url": "https://www.businessinsider.com/?IR=T&token=eyJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJodHRwczovL2lkLnBpYW5vLmlvIiwic3ViIjoiYmNhMzY3NDUtYzljMC00ZjI0LWI5ZmItYjVmMDk4MWViMzQwIiwiYXVkIjoiN245U3NTVndwdSIsImxvZ2luX3RpbWVzdGFtcCI6IjE2Nzk2NjU1NDQ2MzgiLCJnaXZlbl9uYW1lIjoiTmlraWFzIiwiZmFtaWx5X25hbWUiOiJUaGnDn2VuIiwiZW1haWwiOiJ0aGlzc2VuLm5pa2lhcyt6d2VpamFocmVzYWJvQGdtYWlsLmNvbSIsImVtYWlsX2NvbmZpcm1hdGlvbl9yZXF1aXJlZCI6ZmFsc2UsImV4cCI6MTY4MjI5MzU0NCwiaWF0IjoxNjc5NjY1NTQ0LCJqdGkiOiJUSXJJNmx1a29ycnMxMjg4IiwicGFzc3dvcmRUeXBlIjoicGFzc3dvcmQiLCJyIjp0cnVlfQ.9F4R2pMs58C61jLr4jtXr9bDSIouNWa4d7sI-9-dwTM&source=bide&_ga=2.48340133.2079905408.1679295541-267886535.1660038050"},
+
+{"title": "Jobmarkt",
+"url": "https://jobs.businessinsider.de/"},
+
+{"title": "Panorama",
+"url": "https://acc.businessinsider.de/panorama/?bi_native_app"},
+
+{"title": "Reisen",
+"url": "https://acc.businessinsider.de/panorama/reisen/?bi_native_app"},
+
+{"title": "Insider Picks",
+"url": "https://acc.businessinsider.de/insider-picks/?bi_native_app"},
+
+{"title": "Newsticker",
+"url": "https://acc.businessinsider.de/newsticker/?bi_native_app"}
+]
+},
+
+
+{"title":"Newsletter","url":"https://acc.businessinsider.de/informationen/newsletter-business-insider-deutschland/?bi_native_app"},
+
+
+{"title":"BI folgen"},
+
+"subcategories": [
+
+{"title": "Push-Nachrichten",
+"url": "https://acc.businessinsider.de/informationen/browser-push/?bi_native_app"},
+
+{"title": "RSS-Feed",
+"url": "https://acc.businessinsider.de/informationen/abonniert-die-rss-feeds-von-business-insider-deutschland/?bi_native_app"},
+
+{"title": "Newsletter",
+"url": "https://acc.businessinsider.de/informationen/newsletter-business-insider-deutschland/?bi_native_app"},
+
+{"title": "Events",
+"url": "https://acc.businessinsider.de/bi/events-businessinsider/?bi_native_app"}
+]
+},
+
+
+{"title":"Informationen"}
+
+"subcategories": [
+{"title": "Wir sind Business Insider",
+"url": "https://acc.businessinsider.de/informationen/ueber-uns-insider/?bi_native_app"},
+
+{"title": "Das Team",
+"url": "https://acc.businessinsider.de/informationen/das-team-von-business-insider/?bi_native_app"},
+
+{"title": "Impressum & Kontakt",
+"url": "https://acc.businessinsider.de/informationen/impressum/?bi_native_app"},
+
+{"title": "Datenschutz",
+"url": "https://acc.businessinsider.de/informationen/datenschutz/?bi_native_app"},
+
+{"title": "Disclaimer",
+"url": "https://acc.businessinsider.de/informationen/disclaimer/?bi_native_app"},
+
+{"title": "AGB",
+"url": "https://acc.businessinsider.de/informationen/agb/?bi_native_app"}
+]
+}
+
+]}
