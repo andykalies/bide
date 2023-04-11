@@ -11,7 +11,7 @@
 {"main_navigation":[{"title":"","separator":true},
 
 
-{"title":"Plus","url":"https://www.businessinsider.de/abo/bi-plus/"},
+{"title":"Plus","url":"https://www.businessinsider.de/abo/bi-plus/",
 
 "subcategories": [
 {"title": "Wirtschaft +",
@@ -35,7 +35,7 @@
 },
 
 
-{"title":"Wirtschaft","url":"https://www.businessinsider.de/wirtschaft/"},
+{"title":"Wirtschaft","url":"https://www.businessinsider.de/wirtschaft/",
 
 "subcategories": [
 {"title": "Wirtschaft +",
@@ -62,7 +62,7 @@
 },
 
 
-{"title":"Politik","url":"https://www.businessinsider.de/politik/"},
+{"title":"Politik","url":"https://www.businessinsider.de/politik/",
 
 "subcategories": [
 {"title": "Politik +",
@@ -76,8 +76,7 @@
 ]
 },
 
-
-{"title":"Karriere","url":"https://www.businessinsider.de/karriere/"},
+{"title":"Karriere","url":"https://www.businessinsider.de/karriere/",
 
 "subcategories": [
 {"title": "Karriere +",
@@ -92,7 +91,7 @@
 },
 
 
-{"title":"Leben","url":"https://www.businessinsider.de/leben/"},
+{"title":"Leben","url":"https://www.businessinsider.de/leben/",
 
 "subcategories": [
 {"title": "Leben +",
@@ -116,7 +115,7 @@
 },
 
 
-{"title":"Wissen","url":"https://www.businessinsider.de/wissenschaft/"},
+{"title":"Wissen","url":"https://www.businessinsider.de/wissenschaft/",
 
 "subcategories": [
 {"title": "Wissen +",
@@ -137,7 +136,7 @@
 },
 
 
-{"title":"Mehr von BI","url":"https://"},
+{"title":"Mehr von BI",
 
 "subcategories": [
 {"title": "BI International (USA)",
@@ -170,7 +169,7 @@
 },
 
 
-{"title":"Newsletter","url":"https://www.businessinsider.de/informationen/newsletter/"},
+{"title":"Newsletter","url":"https://www.businessinsider.de/informationen/newsletter/",
 
 "subcategories": [
 {"title": "Newsletter Übersicht",
@@ -191,7 +190,7 @@
 },
 
 
-{"title":"BI folgen"},
+{"title":"BI folgen",
 
 "subcategories": [
 {"title": "Podcasts",
@@ -212,7 +211,7 @@
 },
 
 
-{"title":"Informationen"}
+{"title":"Informationen",
 
 "subcategories": [
 {"title": "Wir sind Business Insider",
