@@ -14,7 +14,7 @@
 {"title":"Plus","url":"https://acc.businessinsider.de/bi-plus-artikel/?bi_native_app"},
 
 
-{"title":"Wirtschaft","url":"https://acc.businessinsider.de/wirtschaft/?bi_native_app"},
+{"title":"Wirtschaft","url":"https://acc.businessinsider.de/wirtschaft/?bi_native_app",
 
 "subcategories": [
 
@@ -33,7 +33,7 @@
 },
 
 
-{"title":"Politik","url":"https://acc.businessinsider.de/politik/?bi_native_app"},
+{"title":"Politik","url":"https://acc.businessinsider.de/politik/?bi_native_app",
 
 "subcategories": [
 {"title": "Deutschland",
@@ -45,7 +45,7 @@
 },
 
 
-{"title":"Karriere","url":"https://acc.businessinsider.de/karriere/?bi_native_app"},
+{"title":"Karriere","url":"https://acc.businessinsider.de/karriere/?bi_native_app",
 
 "subcategories": [
 
@@ -58,7 +58,7 @@
 },
 
 
-{"title":"Leben","url":"https://acc.businessinsider.de/leben/?bi_native_app"},
+{"title":"Leben","url":"https://acc.businessinsider.de/leben/?bi_native_app",
 
 "subcategories": [
 
@@ -80,7 +80,7 @@
 },
 
 
-{"title":"Wissen","url":"https://acc.businessinsider.de/wissenschaft/?bi_native_app"},
+{"title":"Wissen","url":"https://acc.businessinsider.de/wissenschaft/?bi_native_app",
 
 "subcategories": [
 
@@ -99,7 +99,7 @@
 },
 
 
-{"title":"Mehr von BI"},
+{"title":"Mehr von BI",
 
 "subcategories": [
 
@@ -127,7 +127,7 @@
 {"title":"Newsletter","url":"https://acc.businessinsider.de/informationen/newsletter-business-insider-deutschland/?bi_native_app"},
 
 
-{"title":"BI folgen"},
+{"title":"BI folgen",
 
 "subcategories": [
 
@@ -146,7 +146,7 @@
 },
 
 
-{"title":"Informationen"}
+{"title":"Informationen",
 
 "subcategories": [
 {"title": "Wir sind Business Insider",
