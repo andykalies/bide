@@ -1,15 +1,4 @@
-{"main_navigation":[{"title":"","separator":true},
-
-
-{"title":"Business Insider","url":"https://www.businessinsider.de/"},
-
-{"title":"Gründerszene","url":"https://www.businessinsider.de/gruenderszene/"},
-
-{"title":"Insider","url":"https://www.businessinsider.com/?IR=T&token=eyJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJodHRwczovL2lkLnBpYW5vLmlvIiwic3ViIjoiYmNhMzY3NDUtYzljMC00ZjI0LWI5ZmItYjVmMDk4MWViMzQwIiwiYXVkIjoiN245U3NTVndwdSIsImxvZ2luX3RpbWVzdGFtcCI6IjE2Nzk2NjU1NDQ2MzgiLCJnaXZlbl9uYW1lIjoiTmlraWFzIiwiZmFtaWx5X25hbWUiOiJUaGnDn2VuIiwiZW1haWwiOiJ0aGlzc2VuLm5pa2lhcyt6d2VpamFocmVzYWJvQGdtYWlsLmNvbSIsImVtYWlsX2NvbmZpcm1hdGlvbl9yZXF1aXJlZCI6ZmFsc2UsImV4cCI6MTY4MjI5MzU0NCwiaWF0IjoxNjc5NjY1NTQ0LCJqdGkiOiJUSXJJNmx1a29ycnMxMjg4IiwicGFzc3dvcmRUeXBlIjoicGFzc3dvcmQiLCJyIjp0cnVlfQ.9F4R2pMs58C61jLr4jtXr9bDSIouNWa4d7sI-9-dwTM&source=bide&_ga=2.48340133.2079905408.1679295541-267886535.1660038050"},
-
-
-{"main_navigation":[{"title":"","separator":true},
-
+{"main_navigation":[
 
 {"title":"Plus","url":"https://www.businessinsider.de/abo/bi-plus/",
 
@@ -239,5 +228,5 @@
 "url": "https://www.businessinsider.de/informationen/whistleblower/"}
 ]
 }
-]
-}]}
+
+]}
