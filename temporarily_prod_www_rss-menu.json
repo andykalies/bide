@@ -3,22 +3,19 @@
 {"title":"Plus","url":"https://www.businessinsider.de/abo/bi-plus/",
 
 "subcategories": [
-{"title": "Wirtschaft +",
+{"title": "Wirtschaft+",
 "url": "https://www.businessinsider.de/abo/bi-plus/wirtschaft-plus/"},
 
-{"title": "Politik +",
-"url": "https://www.businessinsider.de/abo/bi-plus/politik-plus/"},
-
-{"title": "Karriere +",
+{"title": "Karriere+",
 "url": "https://www.businessinsider.de/abo/bi-plus/karriere-plus/"},
 
-{"title": "Leben +",
+{"title": "Politik+",
+"url": "https://www.businessinsider.de/abo/bi-plus/politik-plus/"},
+
+{"title": "Leben+",
 "url": "https://www.businessinsider.de/abo/bi-plus/leben-plus/"},
 
-{"title": "Wissen +",
-"url": "https://www.businessinsider.de/abo/bi-plus/wissen-plus/"},
-
-{"title": "Gründerszene +",
+{"title": "Gründerszene+",
 "url": "https://www.businessinsider.de/gruenderszene/plus/"}
 ]
 },
@@ -27,7 +24,7 @@
 {"title":"Wirtschaft","url":"https://www.businessinsider.de/wirtschaft/",
 
 "subcategories": [
-{"title": "Wirtschaft +",
+{"title": "Wirtschaft+",
 "url": "https://www.businessinsider.de/abo/bi-plus/wirtschaft-plus/"},
 
 {"title": "Money Mindset",
@@ -50,25 +47,10 @@
 ]
 },
 
-
-{"title":"Politik","url":"https://www.businessinsider.de/politik/",
-
-"subcategories": [
-{"title": "Politik +",
-"url": "https://www.businessinsider.de/abo/bi-plus/politik-plus/"},
-
-{"title": "Deutschland",
-"url": "https://www.businessinsider.de/politik/deutschland/"},
-
-{"title": "Welt",
-"url": "https://www.businessinsider.de/politik/welt/"}
-]
-},
-
 {"title":"Karriere","url":"https://www.businessinsider.de/karriere/",
 
 "subcategories": [
-{"title": "Karriere +",
+{"title": "Karriere+",
 "url": "https://www.businessinsider.de/abo/bi-plus/karriere-plus/"},
 
 {"title": "Arbeitsleben",
@@ -80,10 +62,25 @@
 },
 
 
+{"title":"Politik","url":"https://www.businessinsider.de/politik/",
+
+"subcategories": [
+{"title": "Politik+",
+"url": "https://www.businessinsider.de/abo/bi-plus/politik-plus/"},
+
+{"title": "Deutschland",
+"url": "https://www.businessinsider.de/politik/deutschland/"},
+
+{"title": "Welt",
+"url": "https://www.businessinsider.de/politik/welt/"}
+]
+},
+
+
 {"title":"Leben","url":"https://www.businessinsider.de/leben/",
 
 "subcategories": [
-{"title": "Leben +",
+{"title": "Leben+",
 "url": "https://www.businessinsider.de/abo/bi-plus/leben-plus/"},
 
 {"title": "Beziehung",
@@ -103,24 +100,40 @@
 ]
 },
 
-
-{"title":"Wissen","url":"https://www.businessinsider.de/wissenschaft/",
+{"title":"Newsletter","url":"https://www.businessinsider.de/informationen/newsletter/",
 
 "subcategories": [
-{"title": "Wissen +",
-"url": "https://www.businessinsider.de/abo/bi-plus/wissen-plus/"},
+{"title": "Business Insider Daily",
+"url": "https://www.businessinsider.de/informationen/newsletter/businessinsider/"},
 
-{"title": "Ernährung",
-"url": "https://www.businessinsider.de/wissenschaft/ernaehrung/"},
+{"title": "Gründerszene Daily",
+"url": "https://www.businessinsider.de/gruenderszene/gruenderszene-newsletter/"},
 
-{"title": "Gesundheit",
-"url": "https://www.businessinsider.de/wissenschaft/gesundheit/"},
+{"title": "Karriere-Newsletter",
+"url": "https://www.businessinsider.de/informationen/newsletter/karriere/"},
 
-{"title": "Natur",
-"url": "https://www.businessinsider.de/wissenschaft/natur/"},
+{"title": "Finanz-Newsletter",
+"url": "https://www.businessinsider.de/informationen/newsletter/money-mindset/"}
+]
+},
 
-{"title": "Weltraum",
-"url": "https://www.businessinsider.de/wissenschaft/weltraum/"}
+{"title":"Podcast","url":"https://www.businessinsider.de/podcasts/",
+
+"subcategories": [
+{"title": "Macht & Millionen",
+"url": "https://www.businessinsider.de/podcasts/wirtschaftskrimi/"},
+
+{"title": "Money Mindset",
+"url": "https://www.businessinsider.de/podcasts/money-mindset-podcast/"},
+
+{"title": "Never Mind",
+"url": "https://www.businessinsider.de/podcasts/never-mind/"},
+
+{"title": "So geht Startup",
+"url": "https://www.businessinsider.de/gruenderszene/podcast-gruenderszene/"},
+
+{"title": "Cashburners: Die Gorillas-Story",
+"url": "https://www.businessinsider.de/gruenderszene/podcast-cashburners/"}
 ]
 },
 
@@ -131,76 +144,34 @@
 {"title": "BI International (USA)",
 "url": "https://www.businessinsider.com/?IR=T&token=eyJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJodHRwczovL2lkLnBpYW5vLmlvIiwic3ViIjoiYmNhMzY3NDUtYzljMC00ZjI0LWI5ZmItYjVmMDk4MWViMzQwIiwiYXVkIjoiN245U3NTVndwdSIsImxvZ2luX3RpbWVzdGFtcCI6IjE2Nzk2NjU1NDQ2MzgiLCJnaXZlbl9uYW1lIjoiTmlraWFzIiwiZmFtaWx5X25hbWUiOiJUaGnDn2VuIiwiZW1haWwiOiJ0aGlzc2VuLm5pa2lhcyt6d2VpamFocmVzYWJvQGdtYWlsLmNvbSIsImVtYWlsX2NvbmZpcm1hdGlvbl9yZXF1aXJlZCI6ZmFsc2UsImV4cCI6MTY4MjI5MzU0NCwiaWF0IjoxNjc5NjY1NTQ0LCJqdGkiOiJUSXJJNmx1a29ycnMxMjg4IiwicGFzc3dvcmRUeXBlIjoicGFzc3dvcmQiLCJyIjp0cnVlfQ.9F4R2pMs58C61jLr4jtXr9bDSIouNWa4d7sI-9-dwTM&source=bide&_ga=2.48340133.2079905408.1679295541-267886535.1660038050"},
 
-{"title": "Jobmarkt",
-"url": "https://jobs.businessinsider.de/"},
-
-{"title": "Suche",
-"url": "https://www.businessinsider.de/?s="},
-
-{"title": "Panorama",
-"url": "https://www.businessinsider.de/panorama/"},
-
-{"title": "Reisen",
-"url": "https://www.businessinsider.de/panorama/reisen/"},
-
 {"title": "Insider Picks",
 "url": "https://www.businessinsider.de/insider-picks/"},
+
+{"title": "Whistleblower",
+"url": "https://www.businessinsider.de/informationen/whistleblower/"},
 
 {"title": "Finanzvergleich",
 "url": "https://www.businessinsider.de/finanz-vergleich/"},
 
-{"title": "Newsticker",
-"url": "https://www.businessinsider.de/newsticker/"},
-
 {"title": "Zukunftsmacherinnen",
-"url": "https://www.businessinsider.de/specials/zukunftsmacherinnen/"}
-]
-},
+"url": "https://www.businessinsider.de/specials/zukunftsmacherinnen/"},
 
+{"title": "Events",
+"url": "https://www.businessinsider.de/events-bi/"},
 
-{"title":"Newsletter","url":"https://www.businessinsider.de/informationen/newsletter/",
-
-"subcategories": [
-{"title": "Newsletter Übersicht",
-"url": "https://www.businessinsider.de/informationen/newsletter/"},
-
-{"title": "BI Daily",
-"url": "https://www.businessinsider.de/informationen/newsletter/businessinsider/"},
-
-{"title": "Gründerszene Daily",
-"url": "https://www.businessinsider.de/gruenderszene/gruenderszene-newsletter/"},
-
-{"title": "Karriere Newsletter",
-"url": "https://www.businessinsider.de/informationen/newsletter/karriere/"},
-
-{"title": "Finanz Newsletter",
-"url": "https://www.businessinsider.de/informationen/newsletter/money-mindset/"}
-]
-},
-
-
-{"title":"BI folgen",
-
-"subcategories": [
-{"title": "Podcasts",
-"url": "https://www.businessinsider.de/podcasts/"},
+{"title": "Jobmarkt",
+"url": "https://jobs.businessinsider.de/"},
 
 {"title": "Push-Nachrichten",
 "url": "https://www.businessinsider.de/informationen/so-bekommt-ihr-wichtige-nachrichten-und-spannende-artikel-von-business-insider-per-push/"},
 
 {"title": "RSS-Feed",
-"url": "https://www.businessinsider.de/informationen/abonniert-die-rss-feeds-von-business-insider-deutschland/"},
-
-{"title": "Newsletter",
-"url": "https://www.businessinsider.de/informationen/newsletter/"},
-
-{"title": "Events",
-"url": "https://www.businessinsider.de/events-bi/"}
+"url": "https://www.businessinsider.de/informationen/abonniert-die-rss-feeds-von-business-insider-deutschland/"}
 ]
 },
 
 
-{"title":"Informationen",
+{"title":"Über uns",
 
 "subcategories": [
 {"title": "Wir sind Business Insider",
@@ -212,20 +183,52 @@
 {"title": "Impressum & Kontakt",
 "url": "https://www.businessinsider.de/informationen/impressum/"},
 
+{"title": "Suche",
+"url": "https://www.businessinsider.de/?s="},
+
 {"title": "Mediadaten",
 "url": "https://hs.businessinsider.de/de/mediadaten"},
 
 {"title": "Datenschutz",
-"url": "https://www.businessinsider.de/informationen/datenschutz/"},
+"url": "https://www.businessinsider.de/informationen/datenschutz-app/"},
 
 {"title": "Disclaimer",
 "url": "https://www.businessinsider.de/informationen/disclaimer/"},
 
 {"title": "AGB",
-"url": "https://www.businessinsider.de/informationen/agb/"},
+"url": "https://www.businessinsider.de/informationen/agb/"}
+]
+},
 
-{"title": "Whistleblower",
-"url": "https://www.businessinsider.de/informationen/whistleblower/"}
+{"title":"Gründerszene",
+
+"subcategories": [
+{"title": "Business",
+"url": "https://www.businessinsider.de/gruenderszene/business/"},
+
+{"title": "Fintech",
+"url": "https://www.businessinsider.de/gruenderszene/fintech/"},
+
+{"title": "Food",
+"url": "https://www.businessinsider.de/gruenderszene/food/"},
+
+{"title": "Karriere",
+"url": "https://www.businessinsider.de/gruenderszene/karriere-startup/"},
+
+{"title": "Perspektive",
+"url": "https://www.businessinsider.de/gruenderszene/perspektive/"},
+
+{"title": "Mobility",
+"url": "https://www.businessinsider.de/gruenderszene/automotive-mobility/"},
+
+{"title": "Pitchdecks",
+"url": "https://www.businessinsider.de/gruenderszene/business/pitch-decks-millionen-finanzierungen/"},
+
+{"title": "Events",
+"url": "https://www.businessinsider.de/gruenderszene/events/"},
+
+{"title": "Jobbörse",
+"url": "https://jobs-gruenderszene.businessinsider.de/"}
 ]
 }
 
