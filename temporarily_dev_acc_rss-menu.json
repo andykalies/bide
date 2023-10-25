@@ -21,19 +21,6 @@
 ]
 },
 
-
-{"title":"Politik","url":"https://acc.businessinsider.de/politik/",
-
-"subcategories": [
-{"title": "Deutschland",
-"url": "https://acc.businessinsider.de/politik/deutschland/"},
-
-{"title": "Welt",
-"url": "https://acc.businessinsider.de/politik/welt/"}
-]
-},
-
-
 {"title":"Karriere","url":"https://acc.businessinsider.de/karriere/",
 
 "subcategories": [
@@ -43,6 +30,18 @@
 
 {"title": "Bewerbung",
 "url": "https://acc.businessinsider.de/karriere/bewerbung/"}
+]
+},
+
+
+{"title":"Politik","url":"https://acc.businessinsider.de/politik/",
+
+"subcategories": [
+{"title": "Deutschland",
+"url": "https://acc.businessinsider.de/politik/deutschland/"},
+
+{"title": "Welt",
+"url": "https://acc.businessinsider.de/politik/welt/"}
 ]
 },
 
@@ -68,55 +67,46 @@
 ]
 },
 
-
-{"title":"Wissen","url":"https://acc.businessinsider.de/wissenschaft/",
+{"title":"Leben","url":"https://acc.businessinsider.de/leben/",
 
 "subcategories": [
 
-{"title": "Ernährung",
-"url": "https://acc.businessinsider.de/wissenschaft/ernaehrung/"},
+{"title": "Beziehung",
+"url": "https://acc.businessinsider.de/leben/beziehung/"},
 
-{"title": "Gesundheit",
-"url": "https://acc.businessinsider.de/wissenschaft/gesundheit/"},
+{"title": "Erziehung",
+"url": "https://acc.businessinsider.de/leben/erziehung/"},
 
-{"title": "Natur",
-"url": "https://acc.businessinsider.de/wissenschaft/natur/"},
+{"title": "Fitness",
+"url": "https://acc.businessinsider.de/leben/fitness/"},
 
-{"title": "Weltraum",
-"url": "https://acc.businessinsider.de/wissenschaft/weltraum/"}
+{"title": "Selbstoptimierung",
+"url": "https://acc.businessinsider.de/leben/selbstoptimierung/"},
+
+{"title": "Wohnen",
+"url": "https://acc.businessinsider.de/leben/wohnen/"}
 ]
+},
+
+
+{"title":"Newsletter",
+
+"subcategories": [
+
+{"title": "Business Insider Daily",
+"url": "https://acc.businessinsider.de/newsletter-business-insider/"},
+},
+
+{"title":"Podcast",
+
+"subcategories": [
+
+{"title": "Business Insider Podcast",
+"url": "https://acc.businessinsider.de/podcast-business-insider/"},
 },
 
 
 {"title":"Mehr von BI",
-
-"subcategories": [
-
-{"title": "BI International (USA)",
-"url": "https://www.businessinsider.com/?IR=T&token=eyJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJodHRwczovL2lkLnBpYW5vLmlvIiwic3ViIjoiYmNhMzY3NDUtYzljMC00ZjI0LWI5ZmItYjVmMDk4MWViMzQwIiwiYXVkIjoiN245U3NTVndwdSIsImxvZ2luX3RpbWVzdGFtcCI6IjE2Nzk2NjU1NDQ2MzgiLCJnaXZlbl9uYW1lIjoiTmlraWFzIiwiZmFtaWx5X25hbWUiOiJUaGnDn2VuIiwiZW1haWwiOiJ0aGlzc2VuLm5pa2lhcyt6d2VpamFocmVzYWJvQGdtYWlsLmNvbSIsImVtYWlsX2NvbmZpcm1hdGlvbl9yZXF1aXJlZCI6ZmFsc2UsImV4cCI6MTY4MjI5MzU0NCwiaWF0IjoxNjc5NjY1NTQ0LCJqdGkiOiJUSXJJNmx1a29ycnMxMjg4IiwicGFzc3dvcmRUeXBlIjoicGFzc3dvcmQiLCJyIjp0cnVlfQ.9F4R2pMs58C61jLr4jtXr9bDSIouNWa4d7sI-9-dwTM&source=bide&_ga=2.48340133.2079905408.1679295541-267886535.1660038050"},
-
-{"title": "Jobmarkt",
-"url": "https://jobs.businessinsider.de/"},
-
-{"title": "Panorama",
-"url": "https://acc.businessinsider.de/panorama/"},
-
-{"title": "Reisen",
-"url": "https://acc.businessinsider.de/panorama/reisen/"},
-
-{"title": "Insider Picks",
-"url": "https://acc.businessinsider.de/insider-picks/"},
-
-{"title": "Newsticker",
-"url": "https://acc.businessinsider.de/newsticker/"}
-]
-},
-
-
-{"title":"Newsletter","url":"https://acc.businessinsider.de/informationen/newsletter-business-insider-deutschland/"},
-
-
-{"title":"BI folgen",
 
 "subcategories": [
 
@@ -126,16 +116,13 @@
 {"title": "RSS-Feed",
 "url": "https://acc.businessinsider.de/informationen/abonniert-die-rss-feeds-von-business-insider-deutschland/"},
 
-{"title": "Newsletter",
-"url": "https://acc.businessinsider.de/informationen/newsletter-business-insider-deutschland/"},
-
 {"title": "Events",
 "url": "https://acc.businessinsider.de/bi/events-businessinsider/"}
 ]
 },
 
 
-{"title":"Informationen",
+{"title":"Über uns",
 
 "subcategories": [
 {"title": "Wir sind Business Insider",
@@ -155,6 +142,26 @@
 
 {"title": "AGB",
 "url": "https://acc.businessinsider.de/informationen/agb/"}
+]
+},
+
+{"title":"Gründerszene",
+
+"subcategories": [
+{"title": "Magazin",
+"url": "https://acc.businessinsider.de/gruenderszene/"},
+
+{"title": "Events",
+"url": "https://acc.businessinsider.de/gruenderszene/events/"},
+
+{"title": "Jobbörse",
+"url": "https://jobs-gruenderszene.businessinsider.de/"},
+
+{"title": "Lexikon",
+"url": "https://acc.businessinsider.de/gruenderszene/lexikon/"},
+
+{"title": "Gründerszene-Team",
+"url": "https://acc.businessinsider.de/#"}
 ]
 }
 
