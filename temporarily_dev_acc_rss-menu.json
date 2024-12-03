@@ -142,6 +142,9 @@
 {"title": "Disclaimer",
 "url": "https://acc.businessinsider.de/informationen/disclaimer/"},
 
+  {"title": "TEST Suche",
+"url": "https://acc.businessinsider.de/?s="},
+
 {"title": "AGB",
 "url": "https://acc.businessinsider.de/informationen/agb/"}
 ]
