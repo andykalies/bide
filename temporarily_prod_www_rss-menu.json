@@ -1,235 +1,293 @@
-{"main_navigation":[
-
-{"title":"Plus","url":"https://www.businessinsider.de/abo/bi-plus/",
-
+{
+"main_navigation": [
+{
+"title": "Plus",
+"url": "https://www.businessinsider.de/abo/bi-plus/",
 "subcategories": [
-{"title": "Wirtschaft+",
-"url": "https://www.businessinsider.de/abo/bi-plus/wirtschaft-plus/"},
-
-{"title": "Karriere+",
-"url": "https://www.businessinsider.de/abo/bi-plus/karriere-plus/"},
-
-{"title": "Politik+",
-"url": "https://www.businessinsider.de/abo/bi-plus/politik-plus/"},
-
-{"title": "Leben+",
-"url": "https://www.businessinsider.de/abo/bi-plus/leben-plus/"},
-
-{"title": "Gründerszene+",
-"url": "https://www.businessinsider.de/gruenderszene/plus/"}
+{
+"title": "Wirtschaft+",
+"url": "https://www.businessinsider.de/abo/bi-plus/wirtschaft-plus/"
+},
+{
+"title": "Karriere+",
+"url": "https://www.businessinsider.de/abo/bi-plus/karriere-plus/"
+},
+{
+"title": "Politik+",
+"url": "https://www.businessinsider.de/abo/bi-plus/politik-plus/"
+},
+{
+"title": "Leben+",
+"url": "https://www.businessinsider.de/abo/bi-plus/leben-plus/"
+},
+{
+"title": "Gründerszene+",
+"url": "https://www.businessinsider.de/gruenderszene/plus/"
+}
 ]
 },
-
-
-{"title":"Wirtschaft","url":"https://www.businessinsider.de/wirtschaft/",
-
+{
+"title": "Wirtschaft",
+"url": "https://www.businessinsider.de/wirtschaft/",
 "subcategories": [
-{"title": "Wirtschaft+",
-"url": "https://www.businessinsider.de/abo/bi-plus/wirtschaft-plus/"},
-
-{"title": "Money Mindset",
-"url": "https://www.businessinsider.de/wirtschaft/finanzen/"},
-
-{"title": "Handel",
-"url": "https://www.businessinsider.de/wirtschaft/handel/"},
-
-{"title": "Influencer",
-"url": "https://www.businessinsider.de/themen/influencer/"},
-
-{"title": "Verbraucher",
-"url": "https://www.businessinsider.de/wirtschaft/verbraucher/"},
-
-{"title": "Mobility",
-"url": "https://www.businessinsider.de/wirtschaft/mobility/"},
-
-{"title": "Tech",
-"url": "https://www.businessinsider.de/tech/"}
+{
+"title": "Wirtschaft+",
+"url": "https://www.businessinsider.de/abo/bi-plus/wirtschaft-plus/"
+},
+{
+"title": "Money Mindset",
+"url": "https://www.businessinsider.de/wirtschaft/finanzen/"
+},
+{
+"title": "Handel",
+"url": "https://www.businessinsider.de/wirtschaft/handel/"
+},
+{
+"title": "Influencer",
+"url": "https://www.businessinsider.de/themen/influencer/"
+},
+{
+"title": "Verbraucher",
+"url": "https://www.businessinsider.de/wirtschaft/verbraucher/"
+},
+{
+"title": "Mobility",
+"url": "https://www.businessinsider.de/wirtschaft/mobility/"
+},
+{
+"title": "Tech",
+"url": "https://www.businessinsider.de/tech/"
+}
 ]
 },
-
-{"title":"Karriere","url":"https://www.businessinsider.de/karriere/",
-
+{
+"title": "Karriere",
+"url": "https://www.businessinsider.de/karriere/",
 "subcategories": [
-{"title": "Karriere+",
-"url": "https://www.businessinsider.de/abo/bi-plus/karriere-plus/"},
-
-{"title": "Arbeitsleben",
-"url": "https://www.businessinsider.de/karriere/arbeitsleben/"},
-
-{"title": "Bewerbung",
-"url": "https://www.businessinsider.de/karriere/bewerbung/"}
+{
+"title": "Karriere+",
+"url": "https://www.businessinsider.de/abo/bi-plus/karriere-plus/"
+},
+{
+"title": "Arbeitsleben",
+"url": "https://www.businessinsider.de/karriere/arbeitsleben/"
+},
+{
+"title": "Bewerbung",
+"url": "https://www.businessinsider.de/karriere/bewerbung/"
+}
 ]
 },
-
-
-{"title":"Politik","url":"https://www.businessinsider.de/politik/",
-
+{
+"title": "Politik",
+"url": "https://www.businessinsider.de/politik/",
 "subcategories": [
-{"title": "Politik+",
-"url": "https://www.businessinsider.de/abo/bi-plus/politik-plus/"},
-
-{"title": "Deutschland",
-"url": "https://www.businessinsider.de/politik/deutschland/"},
-
-{"title": "Welt",
-"url": "https://www.businessinsider.de/politik/welt/"}
+{
+"title": "Politik+",
+"url": "https://www.businessinsider.de/abo/bi-plus/politik-plus/"
+},
+{
+"title": "Deutschland",
+"url": "https://www.businessinsider.de/politik/deutschland/"
+},
+{
+"title": "Welt",
+"url": "https://www.businessinsider.de/politik/welt/"
+}
 ]
 },
-
-
-{"title":"Leben","url":"https://www.businessinsider.de/leben/",
-
+{
+"title": "Leben",
+"url": "https://www.businessinsider.de/leben/",
 "subcategories": [
-{"title": "Leben+",
-"url": "https://www.businessinsider.de/abo/bi-plus/leben-plus/"},
-
-{"title": "Beziehung",
-"url": "https://www.businessinsider.de/leben/beziehung/"},
-
-{"title": "Erziehung",
-"url": "https://www.businessinsider.de/leben/erziehung/"},
-
-{"title": "Fitness",
-"url": "https://www.businessinsider.de/leben/fitness/"},
-
-{"title": "Selbstoptimierung",
-"url": "https://www.businessinsider.de/leben/selbstoptimierung/"},
-
-{"title": "Wohnen",
-"url": "https://www.businessinsider.de/leben/wohnen/"}
+{
+"title": "Leben+",
+"url": "https://www.businessinsider.de/abo/bi-plus/leben-plus/"
+},
+{
+"title": "Beziehung",
+"url": "https://www.businessinsider.de/leben/beziehung/"
+},
+{
+"title": "Erziehung",
+"url": "https://www.businessinsider.de/leben/erziehung/"
+},
+{
+"title": "Fitness",
+"url": "https://www.businessinsider.de/leben/fitness/"
+},
+{
+"title": "Selbstoptimierung",
+"url": "https://www.businessinsider.de/leben/selbstoptimierung/"
+},
+{
+"title": "Wohnen",
+"url": "https://www.businessinsider.de/leben/wohnen/"
+}
 ]
 },
-
-{"title":"Newsletter","url":"https://www.businessinsider.de/informationen/newsletter/",
-
+{
+"title": "Newsletter",
+"url": "https://www.businessinsider.de/informationen/newsletter/",
 "subcategories": [
-{"title": "Business Insider Daily",
-"url": "https://www.businessinsider.de/informationen/newsletter/businessinsider/"},
-
-{"title": "Gründerszene Daily",
-"url": "https://www.businessinsider.de/gruenderszene/gruenderszene-newsletter/"},
-
-{"title": "Business Class",
-"url": "https://www.businessinsider.de/informationen/newsletter/business-class/"}
+{
+"title": "Business Insider Daily",
+"url": "https://www.businessinsider.de/informationen/newsletter/businessinsider/"
+},
+{
+"title": "Gründerszene Daily",
+"url": "https://www.businessinsider.de/gruenderszene/gruenderszene-newsletter/"
+},
+{
+"title": "Macht und Millionen",
+"url": "https://www.businessinsider.de/specials/macht-und-millionen/"
+},
+{
+"title": "Inside Consulting",
+"url": "https://www.businessinsider.de/specials/inside-consulting/"
+},
+{
+"title": "Business Class",
+"url": "https://www.businessinsider.de/informationen/newsletter/business-class/"
+}
 ]
 },
-
-{"title":"Podcast","url":"https://www.businessinsider.de/podcasts/",
-
+{
+"title": "Podcast",
+"url": "https://www.businessinsider.de/podcasts/",
 "subcategories": [
-{"title": "Macht & Millionen",
-"url": "https://www.businessinsider.de/podcasts/wirtschaftskrimi/"},
-
-{"title": "Business Class",
-"url": "https://www.businessinsider.de/podcasts/business-class-podcast/"},
-
-{"title": "Never Mind",
-"url": "https://www.businessinsider.de/podcasts/never-mind/"},
-
-{"title": "So geht Startup",
-"url": "https://www.businessinsider.de/gruenderszene/podcast-gruenderszene/"},
-
-{"title": "Cashburners: Die Gorillas-Story",
-"url": "https://www.businessinsider.de/gruenderszene/podcast-cashburners/"}
+{
+"title": "Macht & Millionen",
+"url": "https://www.businessinsider.de/podcasts/wirtschaftskrimi/"
+},
+{
+"title": "Business Class",
+"url": "https://www.businessinsider.de/podcasts/business-class-podcast/"
+},
+{
+"title": "Never Mind",
+"url": "https://www.businessinsider.de/podcasts/never-mind/"
+},
+{
+"title": "So geht Startup",
+"url": "https://www.businessinsider.de/gruenderszene/podcast-gruenderszene/"
+},
+{
+"title": "Cashburners: Die Gorillas-Story",
+"url": "https://www.businessinsider.de/gruenderszene/podcast-cashburners/"
+}
 ]
 },
-
-
-{"title":"Mehr von BI",
-
+{
+"title": "Mehr von BI",
 "subcategories": [
-{"title": "BI International (USA)",
-"url": "https://www.businessinsider.com/?IR=T&token=eyJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJodHRwczovL2lkLnBpYW5vLmlvIiwic3ViIjoiYmNhMzY3NDUtYzljMC00ZjI0LWI5ZmItYjVmMDk4MWViMzQwIiwiYXVkIjoiN245U3NTVndwdSIsImxvZ2luX3RpbWVzdGFtcCI6IjE2Nzk2NjU1NDQ2MzgiLCJnaXZlbl9uYW1lIjoiTmlraWFzIiwiZmFtaWx5X25hbWUiOiJUaGnDn2VuIiwiZW1haWwiOiJ0aGlzc2VuLm5pa2lhcyt6d2VpamFocmVzYWJvQGdtYWlsLmNvbSIsImVtYWlsX2NvbmZpcm1hdGlvbl9yZXF1aXJlZCI6ZmFsc2UsImV4cCI6MTY4MjI5MzU0NCwiaWF0IjoxNjc5NjY1NTQ0LCJqdGkiOiJUSXJJNmx1a29ycnMxMjg4IiwicGFzc3dvcmRUeXBlIjoicGFzc3dvcmQiLCJyIjp0cnVlfQ.9F4R2pMs58C61jLr4jtXr9bDSIouNWa4d7sI-9-dwTM&source=bide&_ga=2.48340133.2079905408.1679295541-267886535.1660038050"},
-
-{"title": "Insider Picks",
-"url": "https://www.businessinsider.de/insider-picks/"},
-
-{"title": "Whistleblower",
-"url": "https://www.businessinsider.de/informationen/whistleblower/"},
-
-{"title": "Finanzvergleich",
-"url": "https://www.businessinsider.de/finanz-vergleich/"},
-
-{"title": "Zukunftsmacherinnen",
-"url": "https://www.businessinsider.de/specials/zukunftsmacherinnen/"},
-
-{"title": "Events",
-"url": "https://www.businessinsider.de/events-bi/"},
-
-{"title": "Jobmarkt",
-"url": "https://jobs.businessinsider.de/"},
-
-{"title": "Push-Nachrichten",
-"url": "https://www.businessinsider.de/informationen/so-bekommt-ihr-wichtige-nachrichten-und-spannende-artikel-von-business-insider-per-push/"},
-
-{"title": "RSS-Feed",
-"url": "https://www.businessinsider.de/informationen/abonniert-die-rss-feeds-von-business-insider-deutschland/"}
+{
+"title": "BI International (USA)",
+"url": "https://www.businessinsider.com/?IR=T&token=eyJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJodHRwczovL2lkLnBpYW5vLmlvIiwic3ViIjoiYmNhMzY3NDUtYzljMC00ZjI0LWI5ZmItYjVmMDk4MWViMzQwIiwiYXVkIjoiN245U3NTVndwdSIsImxvZ2luX3RpbWVzdGFtcCI6IjE2Nzk2NjU1NDQ2MzgiLCJnaXZlbl9uYW1lIjoiTmlraWFzIiwiZmFtaWx5X25hbWUiOiJUaGnDn2VuIiwiZW1haWwiOiJ0aGlzc2VuLm5pa2lhcyt6d2VpamFocmVzYWJvQGdtYWlsLmNvbSIsImVtYWlsX2NvbmZpcm1hdGlvbl9yZXF1aXJlZCI6ZmFsc2UsImV4cCI6MTY4MjI5MzU0NCwiaWF0IjoxNjc5NjY1NTQ0LCJqdGkiOiJUSXJJNmx1a29ycnMxMjg4IiwicGFzc3dvcmRUeXBlIjoicGFzc3dvcmQiLCJyIjp0cnVlfQ.9F4R2pMs58C61jLr4jtXr9bDSIouNWa4d7sI-9-dwTM&source=bide&_ga=2.48340133.2079905408.1679295541-267886535.1660038050"
+},
+{
+"title": "Insider Picks",
+"url": "https://www.businessinsider.de/insider-picks/"
+},
+{
+"title": "Whistleblower",
+"url": "https://www.businessinsider.de/informationen/whistleblower/"
+},
+{
+"title": "Finanzvergleich",
+"url": "https://www.businessinsider.de/finanz-vergleich/"
+},
+{
+"title": "Zukunftsmacherinnen",
+"url": "https://www.businessinsider.de/specials/zukunftsmacherinnen/"
+},
+{
+"title": "Events",
+"url": "https://www.businessinsider.de/events-bi/"
+},
+{
+"title": "Push-Nachrichten",
+"url": "https://www.businessinsider.de/informationen/so-bekommt-ihr-wichtige-nachrichten-und-spannende-artikel-von-business-insider-per-push/"
+},
+{
+"title": "RSS-Feed",
+"url": "https://www.businessinsider.de/informationen/abonniert-die-rss-feeds-von-business-insider-deutschland/"
+}
 ]
 },
-
-
-{"title":"Über uns",
-
+{
+"title": "Über uns",
 "subcategories": [
-{"title": "Wir sind Business Insider",
-"url": "https://www.businessinsider.de/informationen/ueber-uns-insider/"},
-
-{"title": "Das Team",
-"url": "https://www.businessinsider.de/informationen/das-team-von-business-insider/"},
-
-{"title": "Impressum & Kontakt",
-"url": "https://www.businessinsider.de/informationen/impressum/"},
-
-{"title": "Suche",
-"url": "https://www.businessinsider.de/?s="},
-
-{"title": "Mediadaten",
-"url": "https://hs.businessinsider.de/de/mediadaten"},
-
-{"title": "Datenschutz",
-"url": "https://www.businessinsider.de/informationen/datenschutz-app/"},
-
-{"title": "Disclaimer",
-"url": "https://www.businessinsider.de/informationen/disclaimer/"},
-
-{"title": "AGB",
-"url": "https://www.businessinsider.de/informationen/agb-app/"}
+{
+"title": "Wir sind Business Insider",
+"url": "https://www.businessinsider.de/informationen/ueber-uns-insider/"
+},
+{
+"title": "Das Team",
+"url": "https://www.businessinsider.de/informationen/das-team-von-business-insider/"
+},
+{
+"title": "Impressum & Kontakt",
+"url": "https://www.businessinsider.de/informationen/impressum/"
+},
+{
+"title": "Mediadaten",
+"url": "https://hs.businessinsider.de/de/mediadaten"
+},
+{
+"title": "Datenschutz",
+"url": "https://www.businessinsider.de/informationen/datenschutz-app/"
+},
+{
+"title": "Disclaimer",
+"url": "https://www.businessinsider.de/informationen/disclaimer/"
+},
+{
+"title": "AGB",
+"url": "https://www.businessinsider.de/informationen/agb-app/"
+}
 ]
 },
-
-{"title":"Gründerszene",
-
+{
+"title": "Gründerszene",
 "subcategories": [
-{"title": "Business",
-"url": "https://www.businessinsider.de/gruenderszene/business/"},
-
-{"title": "Fintech",
-"url": "https://www.businessinsider.de/gruenderszene/fintech/"},
-
-{"title": "Food",
-"url": "https://www.businessinsider.de/gruenderszene/food/"},
-
-{"title": "Karriere",
-"url": "https://www.businessinsider.de/gruenderszene/karriere-startup/"},
-
-{"title": "Perspektive",
-"url": "https://www.businessinsider.de/gruenderszene/perspektive/"},
-
-{"title": "Mobility",
-"url": "https://www.businessinsider.de/gruenderszene/automotive-mobility/"},
-
-{"title": "Pitchdecks",
-"url": "https://www.businessinsider.de/gruenderszene/business/pitch-decks-millionen-finanzierungen/"},
-
-{"title": "Whistleblowing",
-"url": "https://form.jotform.com/221022255757350"},
-
-{"title": "Events",
-"url": "https://www.businessinsider.de/gruenderszene/events/"},
-
-{"title": "Jobbörse",
-"url": "https://jobs-gruenderszene.businessinsider.de/"}
+{
+"title": "Business",
+"url": "https://www.businessinsider.de/gruenderszene/business/"
+},
+{
+"title": "Fintech",
+"url": "https://www.businessinsider.de/gruenderszene/fintech/"
+},
+{
+"title": "Food",
+"url": "https://www.businessinsider.de/gruenderszene/food/"
+},
+{
+"title": "Karriere",
+"url": "https://www.businessinsider.de/gruenderszene/karriere-startup/"
+},
+{
+"title": "Perspektive",
+"url": "https://www.businessinsider.de/gruenderszene/perspektive/"
+},
+{
+"title": "Mobility",
+"url": "https://www.businessinsider.de/gruenderszene/automotive-mobility/"
+},
+{
+"title": "Pitchdecks",
+"url": "https://www.businessinsider.de/gruenderszene/business/pitch-decks-millionen-finanzierungen/"
+},
+{
+"title": "Whistleblowing",
+"url": "https://form.jotform.com/221022255757350"
+},
+{
+"title": "Events",
+"url": "https://www.businessinsider.de/gruenderszene/events/"
+}
 ]
 }
-
-]}
+]
+}
