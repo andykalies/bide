@@ -65,7 +65,7 @@
 "url": "https://www.businessinsider.de/wirtschaft/verbraucher/"
 },
 {
-"title": "Immobilie",
+"title": "Immobilien",
 "url": "https://www.businessinsider.de/themen/immobilien/"
 }
 ]
@@ -226,10 +226,6 @@
 {
 "title": "Whistleblower",
 "url": "https://www.businessinsider.de/informationen/whistleblower/"
-},
-{
-"title": "Insider Picks",
-"url": "https://www.businessinsider.de/insider-picks/"
 },
 {
 "title": "Events",
