@@ -31,24 +31,8 @@
 "url": "https://www.businessinsider.de/wirtschaft/",
 "subcategories": [
 {
-"title": "Wirtschaft+",
-"url": "https://www.businessinsider.de/abo/bi-plus/wirtschaft-plus/"
-},
-{
-"title": "Money Mindset",
-"url": "https://www.businessinsider.de/wirtschaft/finanzen/"
-},
-{
-"title": "Handel",
-"url": "https://www.businessinsider.de/wirtschaft/handel/"
-},
-{
-"title": "Influencer",
-"url": "https://www.businessinsider.de/themen/influencer/"
-},
-{
-"title": "Verbraucher",
-"url": "https://www.businessinsider.de/wirtschaft/verbraucher/"
+"title": "Startups",
+"url": "https://www.businessinsider.de/gruenderszene/"
 },
 {
 "title": "Mobility",
@@ -57,6 +41,32 @@
 {
 "title": "Tech",
 "url": "https://www.businessinsider.de/tech/"
+},
+{
+"title": "Künstliche Intelligenz",
+"url": "https://www.businessinsider.de/kuenstliche-intelligenz/"
+}
+]
+},
+{
+"title": "Geld & Aktien",
+"url": "https://www.businessinsider.de/wirtschaft/finanzen/",
+"subcategories": [
+{
+"title": "Anlage",
+"url": "https://www.businessinsider.de/themen/geld-anlegen/"
+},
+{
+"title": "Börse",
+"url": "https://www.businessinsider.de/themen/boerse/"
+},
+{
+"title": "Verbraucher",
+"url": "https://www.businessinsider.de/wirtschaft/verbraucher/"
+},
+{
+"title": "Immobilie",
+"url": "https://www.businessinsider.de/themen/immobilien/"
 }
 ]
 },
@@ -64,10 +74,6 @@
 "title": "Karriere",
 "url": "https://www.businessinsider.de/karriere/",
 "subcategories": [
-{
-"title": "Karriere+",
-"url": "https://www.businessinsider.de/abo/bi-plus/karriere-plus/"
-},
 {
 "title": "Arbeitsleben",
 "url": "https://www.businessinsider.de/karriere/arbeitsleben/"
@@ -83,15 +89,11 @@
 "url": "https://www.businessinsider.de/politik/",
 "subcategories": [
 {
-"title": "Politik+",
-"url": "https://www.businessinsider.de/abo/bi-plus/politik-plus/"
-},
-{
 "title": "Deutschland",
 "url": "https://www.businessinsider.de/politik/deutschland/"
 },
 {
-"title": "Welt",
+"title": "Ausland",
 "url": "https://www.businessinsider.de/politik/welt/"
 }
 ]
@@ -100,10 +102,6 @@
 "title": "Leben",
 "url": "https://www.businessinsider.de/leben/",
 "subcategories": [
-{
-"title": "Leben+",
-"url": "https://www.businessinsider.de/abo/bi-plus/leben-plus/"
-},
 {
 "title": "Beziehung",
 "url": "https://www.businessinsider.de/leben/beziehung/"
@@ -127,11 +125,43 @@
 ]
 },
 {
+"title": "Panorama",
+"url": "https://www.businessinsider.de/panorama/",
+"subcategories": [
+{
+"title": "Reisen",
+"url": "https://www.businessinsider.de/panorama/reisen/"
+},
+{
+"title": "Leute",
+"url": "https://www.businessinsider.de/panorama/leute/"
+},
+{
+"title": "Filme & Serien",
+"url": "https://www.businessinsider.de/panorama/filme-serien/"
+}
+]
+},
+{
+"title": "Wissenschaft",
+"url": "https://www.businessinsider.de/wissenschaft/",
+"subcategories": [
+{
+"title": "Gesundheit",
+"url": "https://www.businessinsider.de/wissenschaft/gesundheit/"
+},
+{
+"title": "Ernährung",
+"url": "https://www.businessinsider.de/wissenschaft/ernaehrung/"
+}
+]
+},
+{
 "title": "Newsletter",
 "url": "https://www.businessinsider.de/informationen/newsletter/",
 "subcategories": [
 {
-"title": "Business Insider Daily",
+"title": "Daily Business",
 "url": "https://www.businessinsider.de/informationen/newsletter/businessinsider/"
 },
 {
@@ -139,16 +169,12 @@
 "url": "https://www.businessinsider.de/gruenderszene/gruenderszene-newsletter/"
 },
 {
-"title": "Macht und Millionen",
-"url": "https://www.businessinsider.de/specials/macht-und-millionen/"
+"title": "Alles auf Aktien",
+"url": "https://www.businessinsider.de/informationen/newsletter/alles-auf-aktien/"
 },
 {
 "title": "Inside Consulting",
 "url": "https://www.businessinsider.de/specials/inside-consulting/"
-},
-{
-"title": "Business Class",
-"url": "https://www.businessinsider.de/informationen/newsletter/business-class/"
 }
 ]
 },
@@ -158,7 +184,7 @@
 "subcategories": [
 {
 "title": "Macht & Millionen",
-"url": "https://www.businessinsider.de/podcasts/wirtschaftskrimi/"
+"url": "https://www.businessinsider.de/specials/macht-und-millionen/"
 },
 {
 "title": "Business Class",
@@ -169,8 +195,16 @@
 "url": "https://www.businessinsider.de/podcasts/never-mind/"
 },
 {
-"title": "So geht Startup",
-"url": "https://www.businessinsider.de/gruenderszene/podcast-gruenderszene/"
+"title": "Royal GS",
+"url": "https://www.businessinsider.de/gruenderszene/podcast-royal-gs/"
+},
+{
+"title": "Cashing Feelings",
+"url": "https://www.businessinsider.de/podcasts/cashing-feelings/"
+},
+{
+"title": "Cousengs & Cousinen",
+"url": "https://www.businessinsider.de/podcasts/cousengs-und-cousinen/"
 },
 {
 "title": "Cashburners: Die Gorillas-Story",
@@ -182,7 +216,7 @@
 "title": "Mehr von BI",
 "subcategories": [
 {
-"title": "BI International (USA)",
+"title": "Business Insider US",
 "url": "https://www.businessinsider.com/?IR=T&token=eyJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJodHRwczovL2lkLnBpYW5vLmlvIiwic3ViIjoiYmNhMzY3NDUtYzljMC00ZjI0LWI5ZmItYjVmMDk4MWViMzQwIiwiYXVkIjoiN245U3NTVndwdSIsImxvZ2luX3RpbWVzdGFtcCI6IjE2Nzk2NjU1NDQ2MzgiLCJnaXZlbl9uYW1lIjoiTmlraWFzIiwiZmFtaWx5X25hbWUiOiJUaGnDn2VuIiwiZW1haWwiOiJ0aGlzc2VuLm5pa2lhcyt6d2VpamFocmVzYWJvQGdtYWlsLmNvbSIsImVtYWlsX2NvbmZpcm1hdGlvbl9yZXF1aXJlZCI6ZmFsc2UsImV4cCI6MTY4MjI5MzU0NCwiaWF0IjoxNjc5NjY1NTQ0LCJqdGkiOiJUSXJJNmx1a29ycnMxMjg4IiwicGFzc3dvcmRUeXBlIjoicGFzc3dvcmQiLCJyIjp0cnVlfQ.9F4R2pMs58C61jLr4jtXr9bDSIouNWa4d7sI-9-dwTM&source=bide&_ga=2.48340133.2079905408.1679295541-267886535.1660038050"
 },
 {
@@ -194,12 +228,8 @@
 "url": "https://www.businessinsider.de/informationen/whistleblower/"
 },
 {
-"title": "Finanzvergleich",
-"url": "https://www.businessinsider.de/finanz-vergleich/"
-},
-{
-"title": "Zukunftsmacherinnen",
-"url": "https://www.businessinsider.de/specials/zukunftsmacherinnen/"
+"title": "Insider Picks",
+"url": "https://www.businessinsider.de/insider-picks/"
 },
 {
 "title": "Events",
@@ -208,10 +238,6 @@
 {
 "title": "Push-Nachrichten",
 "url": "https://www.businessinsider.de/informationen/so-bekommt-ihr-wichtige-nachrichten-und-spannende-artikel-von-business-insider-per-push/"
-},
-{
-"title": "RSS-Feed",
-"url": "https://www.businessinsider.de/informationen/abonniert-die-rss-feeds-von-business-insider-deutschland/"
 }
 ]
 },
@@ -219,12 +245,8 @@
 "title": "Über uns",
 "subcategories": [
 {
-"title": "Wir sind Business Insider",
-"url": "https://www.businessinsider.de/informationen/ueber-uns-insider/"
-},
-{
-"title": "Das Team",
-"url": "https://www.businessinsider.de/informationen/das-team-von-business-insider/"
+"title": "Autoren",
+"url": "https://www.businessinsider.de/autoren/"
 },
 {
 "title": "Impressum & Kontakt",
@@ -255,6 +277,10 @@
 {
 "title": "Gründerszene",
 "subcategories": [
+{
+"title": "Autoren",
+"url": "https://www.businessinsider.de/gruenderszene/autoren-gs/"
+},
 {
 "title": "Business",
 "url": "https://www.businessinsider.de/gruenderszene/business/"
